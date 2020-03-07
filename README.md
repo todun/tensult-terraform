@@ -1,3 +1,6 @@
+# Reference
+- [Guide To Setup Kubernetes In AWS EKS Using Terraform And Deploy Sample Applications](https://medium.com/tensult/guide-to-setup-kubernetes-in-aws-eks-using-terraform-and-deploy-sample-applications-ee8c45e425ca)
+
 # terraform
 Terraform automation for cloud
 ## AWS
